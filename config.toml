@@ -1,6 +1,6 @@
 # May be overwritten in .github/actions/hugo.yml 
 # when deploying to gh pages
-baseURL = 'https://kartoza.github.io/bims-website/'
+baseURL = 'https://kartoza.github.io/'
 languageCode = 'en-us'
 title = 'BIMS'
 theme = 'hugo-bulma-blocks-theme'
@@ -25,22 +25,22 @@ staticDir = ['static']
 
 [params]
 # Brand colours:
-primary1 = "#7AB49A"
-primary2 = "#286FA6"
-primary3 = "#B22121"
-primary4 = "#C0C1C2"
-primary5 = "#589632"
+primary1 = "#ECD44B"
+primary2 = "#CDEC4B"
+primary3 = "#4BB1EC"
+primary4 = "#4B4EEC"
+primary5 = "#EC4B8A"
 primary1-invert = "#444444"
 primary2-invert = "#eeeeee"
 primary3-invert = "#eeeeee"
 primary4-invert = "#eeeeee"
 primary5-invert = "#eeeeee"
 # TODO update these to gradient colours like above
-complementary1 = "#589632"
-complementary2 = "#ee7913"
-complementary3 = "#f0e64a"
-complementary4 = "#93b023"
-complementary5 = "#a7cecb"
+complementary1 = "#FAF4D1"
+complementary2 = "#F2FAD1"
+complementary3 = "#D1EBFA"
+complementary4 = "#D1D2FA"
+complementary5 = "#FAD8D1"
 light1 = "#fbfbfb"
 light2 = "#eeeeee"
 dark1 = "#999999"
@@ -48,11 +48,11 @@ dark2 = "#444444"
 # Bulma specific colours based on our branding
 grey-dark = "#444444"
 grey-light = "#eeeeee"
-primary = "#7AB49A"
-danger = "#286FA6"
-info = "#B22121"
-success = "#7AB49A"
-warning = "#C0C1C2"
+primary = "#E8CB26"
+danger = "#E84726"
+info = "#C3E826"
+success = "#26A1E8"
+warning = "#E82672"
 link = "#ee7913"
 # Brand fonts to override bulma font families
 heading-font = "'Montserrat', sans-serif"
