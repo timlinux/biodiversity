@@ -1,9 +1,10 @@
 ---
 type: "page"
 title: "Contributing"
-subtitle: ""
+subtitle: "How to contribute to BIMS."
 draft: false
-heroImage: "img/.jpg"
+heroImage: "img/contributing.jpg"
+thumbnail: "img/contributing.jpg"
 ---
 
 ## 🔧 Pull Request Steps
