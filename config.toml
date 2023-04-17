@@ -65,6 +65,8 @@ githubUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/"
 githubIssueUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/issues/new/choose"
 ### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
 githubEditUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/edit/main"
+corner-radius = "15px"
+
 
 # This will cause html in markdown files to be rendered directly
 [markup]
