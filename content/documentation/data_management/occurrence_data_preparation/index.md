@@ -3,7 +3,7 @@ type: "page"
 title: "Biodiversity Data"
 subtitle: "Occurrence Data File Preparation."
 draft: false
-heroImage: "img/.jpg"
+heroImage: "img/occurrence_data_file_preparation.jpg"
 ---
 # Preparing and checking an Occurrence Data File before uploading
 

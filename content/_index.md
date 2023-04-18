@@ -29,3 +29,4 @@ heroSize: "is-large"
     sub-block-side="left"
     class="is-warning"    
 >}}{{< /block >}}
+

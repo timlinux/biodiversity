@@ -131,7 +131,7 @@ corner-radius = "15px"
 [[menu.main]]
   parent = "Resources"
   name = "Documentation"
-  url = "/documentation/overview/"
+  url = "/documentation/"
   weight = -120
   #pre = "<i class='fa-brands fa-windows mr-1'></i>"
 
@@ -149,12 +149,21 @@ corner-radius = "15px"
   weight = -10
   #pre = "<i class='fa-solid fa-clipboard-question mr-1'></i>"
 
-[[menu.documentation]]
-  name = "Documentation"
-  url = "/documentation/overview/"
+[[menu.data_management]]
+  name = "Data Management"
+  url = "/documentation/data_management/"
   weight = -110
   #pre = "<i class='fa-solid fa-clipboard-question mr-1'></i>"
-  [menu.documentation.params]
+  [menu.data_management.params]
+    submenu = "documentation"
+
+
+[[menu.development]]
+  name = "Development"
+  url = "/documentation/development/"
+  weight = -115
+  #pre = "<i class='fa-solid fa-clipboard-question mr-1'></i>"
+  [menu.development.params]
     submenu = "documentation"
 
 [[menu.showcase]]
